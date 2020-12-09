@@ -1,3 +1,13 @@
+# herochief.github.io
+
+Hello, welcome to my Git Page.
+
+Currently there is nothing here but more will be added over time.
+
+Also this was to help me play with the page making function of github.
+
+----------------------------------------------------------------------
+<!--
 ## Welcome to GitHub Pages
 HELLO MINA-san
 You can use the [editor on GitHub](https://github.com/herochief/herochief.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +45,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
