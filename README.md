@@ -1,3 +1,14 @@
+# herochief.github.io
+
+Hello, welcome to my Git Page.
+
+Currently there is nothing here but more will be added over time.
+
+Also this was to help me play with the page making function of github.
+
+----------------------------------------------------------------------
+
+
 <!-- # herochief.github.io
 
 ## Welcome to GitHub Pages
