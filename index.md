@@ -1,9 +1,11 @@
 # herochief.github.io
 
+# Introduction
 Hello, welcome to my Git Page.
 
-Currently there is nothing here but more will be added over time.
+My name is Ken. Nice to meet you.
 
+Currently there is nothing here but more will be added over time. \
 Also this was to help me play with the page making function of github.
 
 ----------------------------------------------------------------------
