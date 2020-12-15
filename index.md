@@ -1,7 +1,7 @@
 # herochief.github.io
 
 # Introduction
-Hello, welcome to my Git Page.
+Hello, welcome to my Github Page.
 
 My name is Ken. Nice to meet you.
 
@@ -9,6 +9,15 @@ Currently there is nothing here but more will be added over time. \
 Also this was to help me play with the page making function of github.
 
 ----------------------------------------------------------------------
+
+# Hobbies
+
+Hobby | Description
+------|-------------
+Singing | I like to sing. Ain't good but it's something
+Model kits | I like to build and own Gunpla. Not strictly gundam but mainly.
+
+
 <!--
 ## Welcome to GitHub Pages
 HELLO MINA-san
