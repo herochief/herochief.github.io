@@ -17,6 +17,15 @@ Hobby | Description
 Singing | I like to sing. Ain't good but it's something
 Model kits | I like to build and own Gunpla. Not strictly gundam but mainly.
 
+---------------------------------------------------------------------
+
+# Things i may want to do
+Done? | Task Description
+------|-------------
+-[] | I like to sing. Ain't good but it's something
+-[] | I like to build and own Gunpla. Not strictly gundam but mainly.
+
+
 
 <!--
 ## Welcome to GitHub Pages
