@@ -23,6 +23,9 @@ Model kits | I like to build and own Gunpla. Not strictly gundam but mainly.
 
 - [ ] Try working in Japan for a while: Ain't going to be permanent 
 
+# Lazy link from commit page to website
+
+[CLICK HERE](https://herochief.github.io)
 
 
 <!--
